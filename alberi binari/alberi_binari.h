@@ -1,4 +1,4 @@
-/*
+/* a
  * aberi_binari.h
  *
  *  Created on: 02 gen 2018
